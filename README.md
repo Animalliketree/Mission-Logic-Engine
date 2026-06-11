@@ -22,6 +22,7 @@ This repository contains a complete architecture for controlling autonomous fixe
 ## 📋 System Requirements
 
 ### Minimum Hardware
+
 - **Ground PC**: 
   - CPU: Dual-core processor (quad-core recommended)
   - RAM: 8GB (16GB recommended for CV inference)
